@@ -1,0 +1,15 @@
+E:\git\ITMO_object-oriented-programming\CourseManagement\CourseManagement\bin\Debug\net9.0\CourseManagement.exe
+E:\git\ITMO_object-oriented-programming\CourseManagement\CourseManagement\bin\Debug\net9.0\CourseManagement.deps.json
+E:\git\ITMO_object-oriented-programming\CourseManagement\CourseManagement\bin\Debug\net9.0\CourseManagement.runtimeconfig.json
+E:\git\ITMO_object-oriented-programming\CourseManagement\CourseManagement\bin\Debug\net9.0\CourseManagement.dll
+E:\git\ITMO_object-oriented-programming\CourseManagement\CourseManagement\bin\Debug\net9.0\CourseManagement.pdb
+E:\git\ITMO_object-oriented-programming\CourseManagement\CourseManagement\obj\Debug\net9.0\CourseManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\ITMO_object-oriented-programming\CourseManagement\CourseManagement\obj\Debug\net9.0\CourseManagement.AssemblyInfoInputs.cache
+E:\git\ITMO_object-oriented-programming\CourseManagement\CourseManagement\obj\Debug\net9.0\CourseManagement.AssemblyInfo.cs
+E:\git\ITMO_object-oriented-programming\CourseManagement\CourseManagement\obj\Debug\net9.0\CourseManagement.csproj.CoreCompileInputs.cache
+E:\git\ITMO_object-oriented-programming\CourseManagement\CourseManagement\obj\Debug\net9.0\CourseManagement.sourcelink.json
+E:\git\ITMO_object-oriented-programming\CourseManagement\CourseManagement\obj\Debug\net9.0\CourseManagement.dll
+E:\git\ITMO_object-oriented-programming\CourseManagement\CourseManagement\obj\Debug\net9.0\refint\CourseManagement.dll
+E:\git\ITMO_object-oriented-programming\CourseManagement\CourseManagement\obj\Debug\net9.0\CourseManagement.pdb
+E:\git\ITMO_object-oriented-programming\CourseManagement\CourseManagement\obj\Debug\net9.0\CourseManagement.genruntimeconfig.cache
+E:\git\ITMO_object-oriented-programming\CourseManagement\CourseManagement\obj\Debug\net9.0\ref\CourseManagement.dll
