@@ -1,0 +1,15 @@
+E:\git\ITMO_object-oriented-programming\DeliveryApp\DeliveryApp\bin\Debug\net9.0\DeliveryApp.exe
+E:\git\ITMO_object-oriented-programming\DeliveryApp\DeliveryApp\bin\Debug\net9.0\DeliveryApp.deps.json
+E:\git\ITMO_object-oriented-programming\DeliveryApp\DeliveryApp\bin\Debug\net9.0\DeliveryApp.runtimeconfig.json
+E:\git\ITMO_object-oriented-programming\DeliveryApp\DeliveryApp\bin\Debug\net9.0\DeliveryApp.dll
+E:\git\ITMO_object-oriented-programming\DeliveryApp\DeliveryApp\bin\Debug\net9.0\DeliveryApp.pdb
+E:\git\ITMO_object-oriented-programming\DeliveryApp\DeliveryApp\obj\Debug\net9.0\DeliveryApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\ITMO_object-oriented-programming\DeliveryApp\DeliveryApp\obj\Debug\net9.0\DeliveryApp.AssemblyInfoInputs.cache
+E:\git\ITMO_object-oriented-programming\DeliveryApp\DeliveryApp\obj\Debug\net9.0\DeliveryApp.AssemblyInfo.cs
+E:\git\ITMO_object-oriented-programming\DeliveryApp\DeliveryApp\obj\Debug\net9.0\DeliveryApp.csproj.CoreCompileInputs.cache
+E:\git\ITMO_object-oriented-programming\DeliveryApp\DeliveryApp\obj\Debug\net9.0\DeliveryApp.sourcelink.json
+E:\git\ITMO_object-oriented-programming\DeliveryApp\DeliveryApp\obj\Debug\net9.0\DeliveryApp.dll
+E:\git\ITMO_object-oriented-programming\DeliveryApp\DeliveryApp\obj\Debug\net9.0\refint\DeliveryApp.dll
+E:\git\ITMO_object-oriented-programming\DeliveryApp\DeliveryApp\obj\Debug\net9.0\DeliveryApp.pdb
+E:\git\ITMO_object-oriented-programming\DeliveryApp\DeliveryApp\obj\Debug\net9.0\DeliveryApp.genruntimeconfig.cache
+E:\git\ITMO_object-oriented-programming\DeliveryApp\DeliveryApp\obj\Debug\net9.0\ref\DeliveryApp.dll
