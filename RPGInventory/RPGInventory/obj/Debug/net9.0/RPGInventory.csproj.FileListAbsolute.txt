@@ -1,0 +1,15 @@
+E:\git\ITMO_object-oriented-programming\RPGInventory\RPGInventory\obj\Debug\net9.0\RPGInventory.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\ITMO_object-oriented-programming\RPGInventory\RPGInventory\obj\Debug\net9.0\RPGInventory.AssemblyInfoInputs.cache
+E:\git\ITMO_object-oriented-programming\RPGInventory\RPGInventory\obj\Debug\net9.0\RPGInventory.AssemblyInfo.cs
+E:\git\ITMO_object-oriented-programming\RPGInventory\RPGInventory\obj\Debug\net9.0\RPGInventory.csproj.CoreCompileInputs.cache
+E:\git\ITMO_object-oriented-programming\RPGInventory\RPGInventory\obj\Debug\net9.0\RPGInventory.sourcelink.json
+E:\git\ITMO_object-oriented-programming\RPGInventory\RPGInventory\bin\Debug\net9.0\RPGInventory.exe
+E:\git\ITMO_object-oriented-programming\RPGInventory\RPGInventory\bin\Debug\net9.0\RPGInventory.deps.json
+E:\git\ITMO_object-oriented-programming\RPGInventory\RPGInventory\bin\Debug\net9.0\RPGInventory.runtimeconfig.json
+E:\git\ITMO_object-oriented-programming\RPGInventory\RPGInventory\bin\Debug\net9.0\RPGInventory.dll
+E:\git\ITMO_object-oriented-programming\RPGInventory\RPGInventory\bin\Debug\net9.0\RPGInventory.pdb
+E:\git\ITMO_object-oriented-programming\RPGInventory\RPGInventory\obj\Debug\net9.0\RPGInventory.dll
+E:\git\ITMO_object-oriented-programming\RPGInventory\RPGInventory\obj\Debug\net9.0\refint\RPGInventory.dll
+E:\git\ITMO_object-oriented-programming\RPGInventory\RPGInventory\obj\Debug\net9.0\RPGInventory.pdb
+E:\git\ITMO_object-oriented-programming\RPGInventory\RPGInventory\obj\Debug\net9.0\RPGInventory.genruntimeconfig.cache
+E:\git\ITMO_object-oriented-programming\RPGInventory\RPGInventory\obj\Debug\net9.0\ref\RPGInventory.dll
